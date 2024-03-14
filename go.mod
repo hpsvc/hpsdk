@@ -4,7 +4,7 @@ go 1.21.4
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/hyperits/gosuite v0.2.1
+	github.com/hyperits/gosuite v0.2.3
 )
 
 require (
