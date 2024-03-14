@@ -1,0 +1,4 @@
+access_key: key1
+secret: secret
+endpoint: https://host.example.com
+request_timeout: 30
